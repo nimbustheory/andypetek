@@ -1,0 +1,56 @@
+{
+  "building": {
+    "title": "Hive Club",
+    "description": "Creator subscription platform — launching January 2026",
+    "link": "/writing/hive-club",
+    "image": "/images/currently/hive-club.jpg"
+  },
+  "projects": {
+    "title": "Muse3",
+    "description": "Non-profit initiative supporting arts and film",
+    "link": "/writing/muse3",
+    "image": "/images/currently/muse3.jpg"
+  },
+  "design": {
+    "title": "Odyssey Brewing \"Fluffy Small Batch Series\"",
+    "description": "Craft beer label design series",
+    "link": "/writing/odyssey-fluffy-series",
+    "image": "/images/currently/odyssey.jpg"
+  },
+  "watching": {
+    "note": "Pulled automatically from films-2026.json"
+  },
+  "reading": {
+    "title": "The Gate of the Feral Gods",
+    "author": "Dungeon Crawler Carl Book 4",
+    "link": "/reading",
+    "bookshopUrl": "https://bookshop.org/shop/joyread-club",
+    "image": "/images/currently/reading.jpg"
+  },
+  "location": {
+    "city": "Oregon",
+    "status": "Working remotely",
+    "image": "/images/currently/oregon.jpg",
+    "upcoming": [
+      { "city": "Napa • San Francisco • Las Vegas • Portland • Seattle", "dates": "" }
+    ]
+  },
+  "latestApp": {
+    "name": "Cinéphile",
+    "tagline": "Your personal film companion",
+    "description": "Discover films by mood, decade, or collection. Build your watchlist. See where everything is streaming. No ads, no social pressure.",
+    "appStoreLink": "https://apps.apple.com/app/cinephile",
+    "screenshots": [
+      { "url": "/images/apps/cinephile/c1.jpg", "alt": "Awards Season tracking" },
+      { "url": "/images/apps/cinephile/c2.jpg", "alt": "Discover films by category" },
+      { "url": "/images/apps/cinephile/c3.jpg", "alt": "Top 100 Greatest Films" },
+      { "url": "/images/apps/cinephile/c4.jpg", "alt": "Film details and streaming" },
+      { "url": "/images/apps/cinephile/c5.jpg", "alt": "Where to watch" },
+      { "url": "/images/apps/cinephile/c6.jpg", "alt": "Build your watchlist" },
+      { "url": "/images/apps/cinephile/c7.jpg", "alt": "Film collections" },
+      { "url": "/images/apps/cinephile/c8.jpg", "alt": "Personal film diary" },
+      { "url": "/images/apps/cinephile/c9.jpg", "alt": "Browse by decade" },
+      { "url": "/images/apps/cinephile/c10.jpg", "alt": "Movie night picker" }
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "year": 2026,
+  "homeBase": {
+    "label": "Spokane, WA",
+    "coordinates": [-117.4260, 47.6588]
+  },
+  "trips": [
+    {
+      "destination": "Seattle, WA",
+      "coordinates": [-122.3321, 47.6062],
+      "date": "2026-02-18",
+      "note": "Client shoot in Capitol Hill",
+      "miles": 280
+    },
+    {
+      "destination": "Portland, OR",
+      "coordinates": [-122.6765, 45.5152],
+      "date": "2026-02-10",
+      "note": "Production work downtown",
+      "miles": 350
+    },
+    {
+      "destination": "Boise, ID",
+      "coordinates": [-116.2146, 43.6150],
+      "date": "2026-01-28",
+      "note": "On-location shoot",
+      "miles": 305
+    },
+    {
+      "destination": "Walla Walla, WA",
+      "coordinates": [-118.3308, 46.0646],
+      "date": "2026-01-20",
+      "note": "Winery shoot",
+      "miles": 160
+    },
+    {
+      "destination": "Coeur d'Alene, ID",
+      "coordinates": [-116.7805, 47.6777],
+      "date": "2026-01-15",
+      "note": "Event coverage",
+      "miles": 33
+    },
+    {
+      "destination": "Missoula, MT",
+      "coordinates": [-114.0103, 46.8721],
+      "date": "2026-01-08",
+      "note": "Documentary shoot",
+      "miles": 200
+    }
+  ]
+}

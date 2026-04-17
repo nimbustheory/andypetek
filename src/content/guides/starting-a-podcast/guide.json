@@ -1,0 +1,24 @@
+{
+  "slug": "starting-a-podcast",
+  "title": "Starting a Podcast in 2026",
+  "subtitle": "A Complete Guide",
+  "description": "Everything you need to know to launch, grow, and sustain a successful podcast. From concept to monetization, with practical advice that actually works.",
+  "author": "Andy Petek",
+  "estimatedTime": "45 min read",
+  "chapters": [
+    { "slug": "introduction", "title": "Introduction", "subtitle": "The State of Podcasting" },
+    { "slug": "finding-your-concept", "title": "Finding Your Podcast Concept", "subtitle": "Your Foundation" },
+    { "slug": "planning-your-show", "title": "Planning Your Show", "subtitle": "Structure & Strategy" },
+    { "slug": "equipment-and-software", "title": "Essential Equipment", "subtitle": "Gear That Matters" },
+    { "slug": "recording", "title": "Recording Your First Episodes", "subtitle": "Hit Record" },
+    { "slug": "editing-and-production", "title": "Editing and Production", "subtitle": "Polish Your Sound" },
+    { "slug": "branding", "title": "Cover Art and Branding", "subtitle": "Look Professional" },
+    { "slug": "publishing", "title": "Publishing and Distribution", "subtitle": "Get It Out There" },
+    { "slug": "growing-your-audience", "title": "Growing Your Audience", "subtitle": "Find Your People" },
+    { "slug": "monetization", "title": "Monetization Strategies", "subtitle": "Make It Sustainable" },
+    { "slug": "sustaining-long-term", "title": "Sustaining Your Show", "subtitle": "Avoid Podfade" },
+    { "slug": "conclusion", "title": "Conclusion", "subtitle": "Your 30-Day Plan" }
+  ],
+  "category": "business",
+  "tags": ["podcasting", "content creation", "audio", "marketing"]
+}

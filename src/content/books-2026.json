@@ -1,0 +1,12 @@
+{
+  "year": 2026,
+  "goal": 52,
+  "affiliateShop": "https://bookshop.org/shop/joyread-club",
+  "books": [
+    { "title": "Mistborn: The Final Empire", "author": "Brandon Sanderson" },
+    { "title": "Seven Tenths of a Second", "author": "Zak Brown" },
+    { "title": "Hit Girls", "author": "Nora Princiotti" },
+    { "title": "The Gate of the Feral Gods", "author": "Matt Dinniman" }
+  ],
+  "lists": {}
+}

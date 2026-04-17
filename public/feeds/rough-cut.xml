@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" 
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Daydreamer Rough Cut</title>
+    <link>https://andypetek.com/rough-cut</link>
+    <description>Audio companions to Andy Petek's written work. Casual, unscripted expansions where he goes deeper on topics, shares behind-the-scenes context, and adds insights that didn't make it to the page. Site-exclusive — not available on podcast platforms.</description>
+    <language>en-us</language>
+    <copyright>© 2026 Andy Petek</copyright>
+    <atom:link href="https://andypetek.com/feeds/rough-cut.xml" rel="self" type="application/rss+xml"/>
+    
+    <itunes:author>Andy Petek</itunes:author>
+    <itunes:summary>Audio companions to Andy Petek's written work. Casual, unscripted expansions where he goes deeper on topics, shares behind-the-scenes context, and adds insights that didn't make it to the page.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>Andy Petek</itunes:name>
+      <itunes:email>andy@andypetek.com</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="Business"/>
+    <itunes:category text="Arts">
+      <itunes:category text="Film Reviews"/>
+    </itunes:category>
+    <itunes:image href="https://andypetek.com/images/site/rough-cut-cover.jpg"/>
+    
+    <!-- Episodes will be added here as you record them -->
+    <!-- Example episode format:
+    <item>
+      <title>The Great Spill — Beer Industry Deep Dive</title>
+      <description>Going deeper on the changing beer industry with personal stories from the trenches.</description>
+      <link>https://andypetek.com/writing/the-great-spill</link>
+      <guid isPermaLink="false">rough-cut-the-great-spill</guid>
+      <pubDate>Thu, 02 Jan 2026 12:00:00 GMT</pubDate>
+      <enclosure url="https://www.buzzsprout.com/YOUR_PODCAST_ID/YOUR_EPISODE_ID.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>18:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    -->
+    
+  </channel>
+</rss>
