@@ -3,10 +3,12 @@
   "goal": 52,
   "affiliateShop": "https://bookshop.org/shop/joyread-club",
   "books": [
-    { "title": "Mistborn: The Final Empire", "author": "Brandon Sanderson" },
-    { "title": "Seven Tenths of a Second", "author": "Zak Brown" },
-    { "title": "Hit Girls", "author": "Nora Princiotti" },
-    { "title": "The Gate of the Feral Gods", "author": "Matt Dinniman" }
+    { "title": "Welcome to the Family", "author": "Various", "date": "2026-04-10" },
+    { "title": "The Butcher's Masquerade", "author": "Matt Dinniman", "date": "2026-04-05" },
+    { "title": "The Gate of the Feral Gods", "author": "Matt Dinniman", "date": "2026-03-01" },
+    { "title": "Hit Girls", "author": "Nora Princiotti", "date": "2026-02-15" },
+    { "title": "Seven Tenths of a Second", "author": "Zak Brown", "date": "2026-02-01" },
+    { "title": "Mistborn: The Final Empire", "author": "Brandon Sanderson", "date": "2026-01-15" }
   ],
   "lists": {}
 }
